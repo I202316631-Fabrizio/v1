@@ -1,0 +1,46 @@
+# Maven build
+/target/
+
+# Maven wrapper - commit the jar and scripts
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# IDEs
+# STS / Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle/other builds
+/build/
+
+# VS Code
+.vscode/
+
+# System files and logs
+*.log
+/logs/
+.DS_Store
+Thumbs.db
+
+# Others
+bin/
+tmp/
